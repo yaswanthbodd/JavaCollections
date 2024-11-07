@@ -1,0 +1,9 @@
+Points              HashSet          LinkedHashSet          TreeSet
+Initial Capacity        0                      16              0
+Default Capacity        16                      16             0
+Duplicate Elements      No                      No             No
+Null values             yes                     yes            no
+Insertion Order         no                      yes            no
+Sorted Order            No                      No             yes
+Random Access           No                      No             no
+Synchronised            No                      No             No
