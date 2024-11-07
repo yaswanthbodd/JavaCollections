@@ -1,0 +1,9 @@
+Points              Priority Queue          ArrayDeque          LinkedList
+Initial Capacity        11                      17                  0
+Default Capacity        11                      17                  0
+Duplicate Elements      yes                     yes                 yes
+Null values             No                      No                  yes
+Insertion Order         yes                     No                  yes
+Sorted Order            No                      No                  No
+Random Access           No                      No                  yes
+Synchronised            No                      No                  No
